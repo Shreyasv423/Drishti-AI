@@ -1,0 +1,12 @@
+{
+  "name": "DRISHTI — Your AI Visual Companion",
+  "description": "Voice-first AI accessibility Progressive Web App helping blind and low-vision users with scene description, offline OCR reading, currency recognition, navigation, and emergency SOS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="DRISHTI logo">
+  <rect width="512" height="512" rx="112" fill="#08101E"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#38BDF8" stroke-width="20" opacity="0.35"/>
+  <path d="M92 256C134 176 194 140 256 140C318 140 378 176 420 256C378 336 318 372 256 372C194 372 134 336 92 256Z" fill="none" stroke="#F8FAFC" stroke-width="26" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="64" fill="#FBBF24"/>
+  <circle cx="256" cy="256" r="24" fill="#08101E"/>
+</svg>
